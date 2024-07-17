@@ -1,0 +1,23 @@
+.center{
+    text-align: center;
+}
+
+p,li{
+    font-size: 20px;
+}
+
+h2,h3,h4{
+    font-size: 25px;
+}
+
+.koshary{
+    color: red;
+}
+
+.lemonade{
+    color: rgb(197, 255, 80);
+}
+
+.om_ali{
+    color: brown;
+}
