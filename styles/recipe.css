@@ -14,10 +14,15 @@ h2,h3,h4{
     color: red;
 }
 
-.lemonade{
+.asab{
     color: rgb(197, 255, 80);
 }
 
 .om_ali{
     color: brown;
+}
+
+.img{
+    height: 500px;
+    width: auto;
 }
